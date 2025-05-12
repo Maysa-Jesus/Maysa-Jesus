@@ -2,14 +2,13 @@
 
 # <p align=center> Maysa de Jesus Bernardes </pr>
 
----
-
 ## 📌 Informações
 
 - 🏡 **Localização:** Franca, São Paulo  
-- 🎓 **Instituição de ensino:** Fatec Franca “Dr. Thomaz Novelino”  
+- 🎓 **Instituição de ensino:** Faculdade de Tecnologia de Franca “Dr. Thomaz Novelino”  
 - 💻 **Curso:** Análise e Desenvolvimento de Sistemas  
-- 📚 **Semestre atual:** 3º semestre  
+- 📚 **Semestre atual:** 3º semestre
+- 🕓 **Turno:** noturno
 - 💼 **Experiências:** Estagiária no Programa de Bolsas DATA & AI da Compass.Uol | Estagiária - Auxiliar Eletrônica  
 - 🛠 **Conhecimentos:**  
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -26,7 +25,6 @@
 - 🧠 **Habilidades:** Comunicação, aprendizado contínuo, trabalho em equipe, inglês básico
 - 🧘‍♀️ **Hobbies:** Leitura, desenho, prática de esportes  
 
----
 ## 👩‍💻 Sobre mim
 
 👋 Olá! Meu nome é Maysa e sou apaixonada por tecnologia desde cedo. Sempre fui curiosa e determinada a aprender o máximo possível, buscando experiências que pudessem expandir meu conhecimento.
@@ -37,14 +35,13 @@
 
 💻 Por me identificar profundamente com essa área, decidi cursar Análise e Desenvolvimento de Sistemas na Fatec Franca, onde atualmente estou no 3º semestre. Sigo em constante aprendizado, buscando evoluir tanto tecnicamente quanto como profissional.
 
----
-
 ## 🚀 Projetos
 
 - 📘 [**Trabalho-ED-Cadastro-Alunos**](https://github.com/Maysa-Jesus/Trabalho-ED-Cadastro-Alunos).  
   Projeto acadêmico em JavaScript, utilizando estruturas de dados para cadastrar, listar e buscar alunos. Desenvolvido para a disciplina de Estrutura de Dados.
 
----
+- 🔗 [**Todos os Projetos**](https://github.com/Maysa-Jesus?tab=repositories)  
+  Confira todos os meus projetos no GitHub.
 
 ## 📫 Como me encontrar
 
